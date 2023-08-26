@@ -1,0 +1,55 @@
+{
+    "goku" :[
+        {
+            "id" : 1,
+            "personaje": "vegueta",
+            "edad" : "25",
+            "sayayin": "si",
+            "img": "https://www.pngwing.com/es/free-png-pobzk"
+            "saga": "2, 3, 4" 
+        },
+        {
+            "id" : 2,
+            "personaje": "goten",
+            "edad" : "25",
+            "sayayin": "si",
+            "img": "https://www.wattpad.com/842592024-personajes-lindos-y-geniales-de-dragon-ball-goku"
+            "saga": "2, 3, 4" 
+        },
+        {
+            "id" : 3,
+            "personaje": "pikoro",
+            "edad" : "25",
+            "sayayin": "si",
+            "img": "https://www.pngegg.com/es/png-psvrj"
+            "saga": "2, 3, 4" 
+        },
+        {
+            "id" : 4,
+            "personaje": "bilss",
+            "edad" : "25",
+            "sayayin": "si",
+            "img": "https://www.pinterest.com.mx/pin/396176098465428536/"
+            "saga": "2, 3, 4" 
+        },
+        {
+            "id" : 5,
+            "personaje": "goku",
+            "edad" : "25",
+            "sayayin": "si",
+            "img": "https://www.pinterest.com/pin/606367537307103102/"
+            "saga": "2, 3, 4" 
+        },
+         {
+            "id" : 5,
+            "personaje": "magin buu",
+            "edad" : "25",
+            "sayayin": "si",
+            "img": "https://www.pinterest.es/pin/698339485968914722/"
+            "saga": "2, 3, 4" 
+        }
+    ],
+    "profile" : {
+        "name" : "majo"
+    }
+}
